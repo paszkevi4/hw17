@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.App{text-align:center}.circleContainer{display:inline-block}.circle{margin:50px;height:100px;width:100px;background-color:navy;position:relative}.circle,.inner{border-radius:50%}.inner{position:absolute;background-color:#fff;height:50px;width:50%;top:25px;left:25px;display:flex;flex-direction:column;cursor:pointer}.inner span{padding-top:5px}
+/*# sourceMappingURL=main.0ea86a8c.chunk.css.map */
